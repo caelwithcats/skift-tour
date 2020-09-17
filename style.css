@@ -27,6 +27,9 @@ body
     font-family: var(--font) !important;
     font-size: 13px !important;
     height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 
 *
